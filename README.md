@@ -3,8 +3,8 @@
 Compete with your friends for high scores in this burger building simulator!
 
 ## Download links
-- [Google Drive (Windows)](https://drive.google.com/file/d/1MyeWmFENUVRp3wAOR9Px7Yojyh0FK2hS/view?usp=sharing)
-- [Google Drive (Mac)](https://drive.google.com/file/d/1CJfS9dyTDDRii8_Cohtk7_GtzUtoQTuu/view?usp=sharing)
+- [Google Drive (Windows v1.01)](https://drive.google.com/file/d/1VP-HsHdkwQMP_t1tALcSEcBfmjmUan-7/view?usp=sharing)
+- [Google Drive (Mac v1.01)](https://drive.google.com/file/d/1VP-HsHdkwQMP_t1tALcSEcBfmjmUan-7/view?usp=sharing)
 
 ## Instructions for Running (Windows)
 1. Download the Windows version zip file from above
