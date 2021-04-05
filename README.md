@@ -1,4 +1,5 @@
 ![TitleCard](https://i.imgur.com/3LadoYa.png)
+
 #CSCI 475: Burger Builder
 Compete with your friends for high scores in this burger building simulator!
 
@@ -34,17 +35,22 @@ Compete with your friends for high scores in this burger building simulator!
 ![Game1](https://i.imgur.com/jGBIETu.png)
 Have fun building burgers to order! In this simple game, ingredients fall from the sky! Manuever your pan to catch them in the right order.
 
+
 ![Game2](https://i.imgur.com/VuKVUaA.png)
 Don't move your pan too quickly though! Your ingredients could go flying off!
+
 
 ![Game3](https://i.imgur.com/CbI2x4a.png)
 Get points and additional time based on the size of the order and if they're in the correct order. Get consecutive perfect orders to rack up a score multipler!
 
+
 ![Game4](https://i.imgur.com/0ldTrpV.png)
 On the harder difficulties, avoid nasty, rotten ingredients! They will only mess up your order!
 
+
 ![MainMenu](https://i.imgur.com/3ZJJN81.png)
 Using the magic of the internet, compete with your friends and family in order to get a high score! Everyone can join in on the fun (granted they have a computer with an internet connection!) 
+
 
 ![Options](https://i.imgur.com/jQUsRPz.png)
 Computer not too powerful? Laptop trackpad sending your items flying? Don't worry! We have a robust options menu with an additional "WASD Mode" that allows you to control the pan with your WASD or arrow keys instead of the mouse.
