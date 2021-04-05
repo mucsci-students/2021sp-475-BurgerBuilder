@@ -1,6 +1,5 @@
 ![TitleCard](https://i.imgur.com/3LadoYa.png)
-
-#CSCI 475: Burger Builder
+# CSCI 475: Burger Builder
 Compete with your friends for high scores in this burger building simulator!
 
 ## Download links
