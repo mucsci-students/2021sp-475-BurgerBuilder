@@ -46,8 +46,9 @@ public class MainMenuCamera : MonoBehaviour
     void Start()
     {
         buttonPress = GetComponent<AudioSource>();
-        path = Application.dataPath + "/PleaseDontModifyThisPleaseDontMakeMeWriteAnEncryptionAlgorithm.txt";
+        path = Application.persistentDataPath + "/PleaseDontModifyThisPleaseDontMakeMeWriteAnEncryptionAlgorithm.txt";
         Physics.gravity = new Vector3(0.0f, gravityPower, 0.0f);
+        Cursor.visible = true;
         Time.timeScale = 1.0f;
         playfabManager = playfabManagerObject.GetComponent<PlayFabManager>();
         DontDestroyOnLoad(musicManager);
@@ -74,6 +75,13 @@ public class MainMenuCamera : MonoBehaviour
             Mathf.LerpAngle(transform.eulerAngles.z, target_rotation.z, rotationSpeed * Time.deltaTime)
         );
     }
+
+    public void WillCauseError()
+    {
+        int[] haha = new int[2];
+        int errorline = haha[5];
+    }
+
 
     public void MainMenuValidateLogin()
     {
@@ -264,7 +272,7 @@ public class MainMenuCamera : MonoBehaviour
 
     public void UpdateDisplayName()
     {
-        playfabManagerObject.GetComponent<PlayFabManager>().UpdateDisplayName(System.IO.File.ReadAllText(path));
+        playfabManagerObject.GetComponent<PlayFabManager>().UpdateDisplayName(usernameIn.text);
     }
     
     // Is called upon successful login by PlayFabManager.
