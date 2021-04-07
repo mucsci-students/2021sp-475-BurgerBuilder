@@ -4,7 +4,7 @@ Compete with your friends for high scores in this burger building simulator!
 
 ## Download links
 - [Google Drive (Windows v1.01)](https://drive.google.com/file/d/1LkhzO3Bh7lvT9sUwhrCUE8DSCywkb0ja/view?usp=sharing)
-- [Google Drive (Mac v1.01)](https://drive.google.com/file/d/1VP-HsHdkwQMP_t1tALcSEcBfmjmUan-7/view?usp=sharing)
+- [Google Drive (Mac v1.02)](https://drive.google.com/file/d/1FhIJnKD2FHqqwxHPeJMK_bPCHDk4s0mh/view?usp=sharing)
 
 ## Instructions for Running (Windows)
 1. Download the Windows version zip file from above
@@ -17,7 +17,7 @@ Compete with your friends for high scores in this burger building simulator!
 ## Instructions for Running (Mac)
 1. Download the zip file from above
 2. Extract the zip file to be left with the .app file.
-3. If Mac doesn't allow you to open it, you may have to navigate to the folder where the app is located and use `chmod -x` in order to change permissions.
+3. If Mac doesn't allow you to open it, you may have to navigate to the folder where the app is located and use `chmod +x` in order to change permissions.
 4. CMD + Click and select "Open" to run!
 5. Enjoy!
 
